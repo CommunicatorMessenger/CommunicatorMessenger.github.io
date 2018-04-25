@@ -1,5 +1,12 @@
 Features:
-Embed chat groups
+Send money to contacts
+Multiple tokens
+SMS & phone
+<ul>
+<li>CMM</li>
+<li>Day</li>
+<li>Power</li>
+</ul>
 
 Update Framework
 
