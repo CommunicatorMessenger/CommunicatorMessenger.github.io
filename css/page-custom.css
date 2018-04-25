@@ -1,0 +1,43 @@
+.body, body {
+    background: #393!important;
+}
+
+.header, header {
+    background: #fff!important;
+}
+
+.logo,logo {
+    background: url(../icon.svg#badge) no-repeat no-repeat 3px 10px;
+    background-size: 41px;
+    text-indent: 49px;
+    color: #393!important;
+}
+
+::selection {
+    background: #fff!important;
+    color: #393!important;
+}
+
+.h1, h1 {
+    color: #fff!important;
+}
+
+.p, p {
+    color: #fff!important;
+}
+
+.navmenu {
+    color: #fff!important;
+}
+.navmenu ul > li:hover {
+    background: #fff!important;
+}
+
+ul.tabs{border-bottom:1px solid #fff}
+ul.tabs li a:active{color:#fff80;border-bottom:4px solid #fff80}
+ul.tabs li.current a{color:#fff;border-bottom:4px solid #fff}
+
+button.color{background:#fff;color:#393;font-weight:bold;padding:10px;font-size:16px}
+button.color:hover{background:#393;color:#fff}
+
+.footer,footer{background:#fff;color:#393}
