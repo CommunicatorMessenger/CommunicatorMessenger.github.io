@@ -1,6 +1,5 @@
 Features:
 MSN feeling
-Multiple themes
 Embed chat groups
 
 Update Framework
