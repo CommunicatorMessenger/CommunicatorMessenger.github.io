@@ -1,18 +1,18 @@
 Features:
-Send money to contacts
 Multiple tokens
-SMS & phone
 <ul>
-<li>CMM</li>
-<li>Day</li>
-<li>Power</li>
+<li>CMM: to send to contacts and buy days, powers and other items.</li>
+<li>Day: represents how many days you can have you powers working.</li>
+<li>Power: can be a colored name, a name with a glow, a emoji pack, chat room features, etc</li>
 </ul>
+SMS & phone
 
-Bounty for community's initial help
-English revision in the site - 1,000 CMM
-Precious tips about: team, ICO, token, bounty/airdrop/referrals, etc - 1,000 CMM
-Manual bounty manager - 5,000 CMM per week
-Social manager (Fb, Discord) - 1,000 per week
+Networks (eth, phpfox/forums, tele, embed)
+
+Team
+
+Roadmap
+site, initial help bounty, airdrop, pre-ico
 
 Update Framework
 
