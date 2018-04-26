@@ -1,5 +1,7 @@
 Comments
 
+Google Analytics
+
 Networks (eth, phpfox/forums, tele, embed)
 
 Team
@@ -7,14 +9,16 @@ Team
 Roadmap
 site, initial help bounty, airdrop, pre-ico
 
+Token allocation
+
 Newsletter subscribe
 
 Telegram channel
+Exchanges group
 
 Telegram bot
-
-Exchanges group
 Exchanges bot
+Notif bot
 
 Social profiles
 Partners
