@@ -16,9 +16,9 @@ Telegram bot
 Exchanges group
 Exchanges bot
 
-Update Framework
-
 Social profiles
-Social buttons
+Partners
 P Kit
 Whitepaper
+
+Update Framework
