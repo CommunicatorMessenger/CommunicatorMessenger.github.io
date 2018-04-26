@@ -1,11 +1,4 @@
-Features:
-Multiple tokens
-<ul>
-<li>CMM: to send to contacts and buy days, powers and other items.</li>
-<li>Day: represents how many days you can have you powers working.</li>
-<li>Power: can be a colored name, a name with a glow, a emoji pack, chat room features, etc</li>
-</ul>
-SMS & phone
+Comments
 
 Networks (eth, phpfox/forums, tele, embed)
 
@@ -14,8 +7,18 @@ Team
 Roadmap
 site, initial help bounty, airdrop, pre-ico
 
+Newsletter subscribe
+
+Telegram channel
+
+Telegram bot
+
+Exchanges group
+Exchanges bot
+
 Update Framework
 
 Social profiles
 Social buttons
 P Kit
+Whitepaper
