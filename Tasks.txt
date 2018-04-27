@@ -1,4 +1,12 @@
+Reddit:
+CMM - COMM
+telegram, reddit mods
+
 Comments
+
+Menus
+
+https://coinlaunch.market/faq/#refund-policy
 
 Google Analytics
 
@@ -13,16 +21,29 @@ Token allocation
 
 Newsletter subscribe
 
-Telegram channel
-Exchanges group
+Multi lang
 
 Telegram bot
 Exchanges bot
 Notif bot
 
-Social profiles
+super header with floating <header>
+fix visi links
+
 Partners
 P Kit
-Whitepaper
+Whitepapers
 
 Update Framework
+
+after bounties:
+referrals
+linkedin page translation
+
+Framework:
+footer sections and headings
+div areas with colors
+remove margins and put they in elements
+social icons
+social buttons
+rounded social icons
