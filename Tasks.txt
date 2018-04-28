@@ -1,48 +1,68 @@
+Framework:
+remove margins and put they in elements
+
+white background
+
+reddit's background on footer
+
+Framework:
+div areas with colors
+
+Framework:
+footer sections and headings
+
+footer sections:
+about: blog, about, partnership, careers
+help: FAQs, whitepaper, contact, one pager, business model, token holders benefits
+apps: App for Mobile, App for PC, App for Browsers
+tools: buttons, p kit
+
+landing design in referral/newsletter section
+
+Framework:
+super header with floating <header>
+animations
+
+BitcoinTalk Topic images
+signature/avatar topic images
+
+Framework:
 Menus
 
-https://coinlaunch.market/faq/#refund-policy
+The use of this site constitute in the accepting of our Cookie Policy.
 
 Google Analytics
 
-Networks (eth, phpfox/forums, tele, embed)
+Team with landing design
+
+Networks (eth, phpfox/forums, tele, embed) with landing design
+
+Chatip's prototype
+
+Plascrypto link (Plascrypto needs icon, proj list, social networks)
 
 Video
-
-Team
 
 Roadmap
 site, initial help bounty, airdrop, pre-ico
 
 Token allocation
 
-Newsletter subscribe
+AJAX loading pages
 
 Multi lang
 
-Telegram bot
 Referral bot
+Telegram bot
 Exchanges bot
 
-super header with floating <header>
-fix visi links
-
 Partners
-P Kit
-Whitepapers
-
-Update Framework
 
 raised funds embed
 
-after bounties:
-telegram joins
-referrals
-linkedin page translation
+after bounties: advanced referrals, retweets/likes/shares, linkedin page translation
 
 Framework:
-footer sections and headings
-div areas with colors
-remove margins and put they in elements
 social icons
 social buttons
 rounded social icons

@@ -13,6 +13,8 @@
     color: #393!important;
 }
 
+a:visited{color:#fff}
+
 ::selection {
     background: #fff!important;
     color: #393!important;
@@ -23,6 +25,10 @@
 }
 
 .p, p {
+    color: #fff!important;
+}
+
+span .grsf-conversion-count {
     color: #fff!important;
 }
 

@@ -23,28 +23,40 @@ a:hover{font-weight:bold;text-decoration:none}
 a:active{opacity:0.5}
 a .badge{color:#fff!important;text-decoration:none}
 a button{text-decoration:none}
-a img{text-decoration:none}
 
 ::selection {
     background: #00A185;
     color: #fff;
 }
 
+.full-size{width:100%!important;height:100%!important}
+.no-opacity{opacity:1!important}
+
 .h1, h1{font-size:80px;color:#00A185;margin:25px 0px 0px 0px;user-select:text!important}
 .h2, h2{font-size:70px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
-.h3, h3{font-size:60px;color:rgba(51, 51, 51, 0.9);margin:25px 0px 0px 0px;user-select:text!important}
+.h3, h3{font-size:60px;color:#333;opacity:0.9;margin:25px 0px 0px 0px;user-select:text!important}
 .h4, h4{font-size:50px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
-.h5, h5{font-size:40px;color:rgba(51, 51, 51, 0.7);margin:25px 0px 0px 0px;user-select:text!important}
+.h5, h5{font-size:40px;color:#333;opacity: 0.7;margin:25px 0px 0px 0px;user-select:text!important}
 .h6, h6{font-size:30px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
+
+h2.color{color:#00A185}
+h3.color{color:#00A185}
+h4.color{color:#00A185}
+h5.color{color:#00A185}
+h6.color{color:#00A185}
 
 .badge{background-color:#e7534f;padding:3px 8px;border-radius:3px;color:#fff;position:relative;margin-left:8px;display:inline;user-select:text!important}
 .badge a{color:#fff!important}
 comments h1 .badge a{text-decoration:none}
 h1 .badge{font-size:40px;top:-14px}h2 .badge{font-size:35px;top:-12px}h3 .badge{font-size:30px;top:-12px}h4 .badge{font-size:25px;top:-10px}h5 .badge{font-size:20px;top:-8px}h6 .badge{font-size:15px;top:-6px}
-.badge.blue{background-color:#5b6ed6}.badge.green{background-color:#53a93f}
+.badge.blue{background-color:#5b6ed6}.badge.green{background-color:#53a93f}.badge.color{background-color:#00A185;color:#fff}
 .badge.mini{font-size:7px;-webkit-user-select:none;-moz-user-select:none;user-select:none}
 
-.p,p{color:#585b55;font-size:14px;user-select:text!important}.span,span{color:#888;font-size:12px}
+.p,p{color:#585b55;font-size:14px;user-select:text!important}
+p.color{color:#00A185}
+
+.span,span{color:#888;font-size:12px}
+span.color{color:#00A185}
 
 .blockquote,blockquote{padding:10px;background:#d6d6d6;color:#585b55;border:1px solid transparent;font-size:14px;user-select:text!important}
 .blockquote,blockquote:hover{border:1px solid #333}
@@ -113,9 +125,8 @@ button.sticky.left {
     height: 100%;
     border: 1px solid #333 !important;
     border-radius: 0 !important;
-    top: -35px !important;
-    right: 3px!important;
-    margin-bottom: -34px !important;
+    top: -36px !important;
+    left: 11px !important;
     float: right;
 }
 
@@ -224,5 +235,32 @@ ul.tabs li.current a{position:relative;left:0;color:#00A185;border-bottom:4px so
     z-index: 1000;
     position: relative
 }
+footer:hover + .footer-shadow, .footer-shadow:hover{box-shadow:-12px 16px 26px -5px black}
+footer:active + .footer-shadow, .footer-shadow:active{box-shadow:-12px 16px 26px -1px black}
 
 .footer,footer{background:#00A185;width:100%;color:#efefef;padding:10px;box-sizing:border-box}.social-icons{float:right}.social-icons img{margin-left:10px}.social-buttons{margin-top:55px;float:right}footer a{color:#FFFFFF;opacity:0.5}footer a:hover{opacity:1}.copyright, copyright{width:100%;display:block;margin-top:218px}.copyright, copyright a{color:#fff!important}.copyright, copyright center a{color:#fff!important}
+
+@media(max-width:8in){
+.logo, logo{font-size:19px;line-height:59px}
+.textarea, textarea{width: calc(100% + -55px)}
+.h1, h1{font-size:52px;text-align:center}
+.h2, h2{font-size:48px;text-align:center}
+.h3, h3{font-size:44px;text-align:center}
+.h4, h4{font-size:35px;text-align:center}
+.h5, h5{font-size:28px;text-align:center}
+.h6, h6{font-size:20px;text-align:center}
+h1 .badge{font-size:30px}
+h2 .badge{font-size:28px}
+h3 .badge{font-size:24px}
+h4 .badge{font-size:21px}
+h5 .badge{font-size:16px}
+h6 .badge{font-size:12px}
+h1 i{width:100%;font-size:90px;text-align:center}
+h2 i{width:100%;font-size:80px;text-align:center}
+h3 i{width:100%;font-size:70px;text-align:center}
+button{padding:10px;font-size:16px}
+button.color{padding:15px;font-size:19px}
+.input,input{padding:10px;font-size:16px}
+ul.tiled.longcard li{width:100%}
+button.sticky.left{top:-55px!important}
+}
