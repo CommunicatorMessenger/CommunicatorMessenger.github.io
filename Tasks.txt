@@ -1,6 +1,3 @@
-Reddit:
-telegram, reddit mods
-
 Menus
 
 https://coinlaunch.market/faq/#refund-policy
@@ -23,8 +20,8 @@ Newsletter subscribe
 Multi lang
 
 Telegram bot
+Referral bot
 Exchanges bot
-Notif bot
 
 super header with floating <header>
 fix visi links
@@ -38,6 +35,7 @@ Update Framework
 raised funds embed
 
 after bounties:
+telegram joins
 referrals
 linkedin page translation
 
