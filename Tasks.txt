@@ -1,5 +1,4 @@
 Reddit:
-CMM - COMM
 telegram, reddit mods
 
 Menus
@@ -9,6 +8,8 @@ https://coinlaunch.market/faq/#refund-policy
 Google Analytics
 
 Networks (eth, phpfox/forums, tele, embed)
+
+Video
 
 Team
 
@@ -33,6 +34,8 @@ P Kit
 Whitepapers
 
 Update Framework
+
+raised funds embed
 
 after bounties:
 referrals
