@@ -14,8 +14,8 @@
 }
 
 ::selection {
-    background: #fff!important;
-    color: #393!important;
+    background: #393!important;
+    color: #fff!important;
 }
 
 .h1, h1 {
