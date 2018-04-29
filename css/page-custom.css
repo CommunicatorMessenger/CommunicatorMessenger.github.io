@@ -42,4 +42,10 @@ button.color:hover{background:#fff;color:#393}
 
 .social-icons img{margin-left:5px!important;border-radius:50%}
 
-.footer,footer{background:#393;color:#fff}
+.footer,footer{    background-image: url(../img/footer.png);
+    background-position-y: 15px;
+    background-color: #393;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+}
