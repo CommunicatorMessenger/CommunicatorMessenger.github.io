@@ -1,9 +1,6 @@
 reddit's background on footer
 
 Framework:
-div areas with colors
-
-Framework:
 footer sections and headings
 
 footer sections:
@@ -62,3 +59,8 @@ Framework:
 social icons
 social buttons
 rounded social icons
+
+Framework:
+div areas <div class="area"></div> with colors
+lists and colored lists
+theme color in text
