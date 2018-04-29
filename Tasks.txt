@@ -64,3 +64,4 @@ Framework:
 div areas <div class="area"></div> with colors
 lists and colored lists
 theme color in text
+float
