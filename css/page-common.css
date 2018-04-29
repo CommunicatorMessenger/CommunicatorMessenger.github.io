@@ -14,7 +14,7 @@ body{background:rgb(239, 239, 239);font-family: Roboto;-webkit-font-smoothing:an
 
 .content{width:100%;height:calc(100% - 60px);top:60px;position:fixed;overflow-x:hidden;overflow-y:scroll}
 
-.article,article{margin:15px 8px 8px 8px}
+.article,article{margin:15px 0 8px 0}
 .comments,comments{margin:15px 8px 8px 8px}
 
 a:-webkit-any-link{#5b6ed6}
@@ -32,12 +32,12 @@ a button{text-decoration:none}
 .full-size{width:100%!important;height:100%!important}
 .no-opacity{opacity:1!important}
 
-.h1, h1{font-size:80px;color:#00A185;margin:25px 0px 0px 0px;user-select:text!important}
-.h2, h2{font-size:70px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
-.h3, h3{font-size:60px;color:#333;opacity:0.9;margin:25px 0px 0px 0px;user-select:text!important}
-.h4, h4{font-size:50px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
-.h5, h5{font-size:40px;color:#333;opacity: 0.7;margin:25px 0px 0px 0px;user-select:text!important}
-.h6, h6{font-size:30px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
+.h1, h1{margin-left:8px!important;margin-right:8px!important;font-size:80px;color:#00A185;margin:25px 0px 0px 0px;user-select:text!important}
+.h2, h2{margin-left:8px!important;margin-right:8px!important;font-size:70px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
+.h3, h3{margin-left:8px!important;margin-right:8px!important;font-size:60px;color:#333;opacity:0.9;margin:25px 0px 0px 0px;user-select:text!important}
+.h4, h4{margin-left:8px!important;margin-right:8px!important;font-size:50px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
+.h5, h5{margin-left:8px!important;margin-right:8px!important;font-size:40px;color:#333;opacity: 0.7;margin:25px 0px 0px 0px;user-select:text!important}
+.h6, h6{margin-left:8px!important;margin-right:8px!important;font-size:30px;color:#333;margin:25px 0px 0px 0px;user-select:text!important}
 
 h2.color{color:#00A185}
 h3.color{color:#00A185}
@@ -46,19 +46,20 @@ h5.color{color:#00A185}
 h6.color{color:#00A185}
 
 .badge{background-color:#e7534f;padding:3px 8px;border-radius:3px;color:#fff;position:relative;margin-left:8px;display:inline;user-select:text!important}
+. badge p{margin-left:8px!important}
 .badge a{color:#fff!important}
 comments h1 .badge a{text-decoration:none}
 h1 .badge{font-size:40px;top:-14px}h2 .badge{font-size:35px;top:-12px}h3 .badge{font-size:30px;top:-12px}h4 .badge{font-size:25px;top:-10px}h5 .badge{font-size:20px;top:-8px}h6 .badge{font-size:15px;top:-6px}
 .badge.blue{background-color:#5b6ed6}.badge.green{background-color:#53a93f}.badge.color{background-color:#00A185;color:#fff}
 .badge.mini{font-size:7px;-webkit-user-select:none;-moz-user-select:none;user-select:none}
 
-.p,p{color:#585b55;font-size:14px;user-select:text!important}
+.p,p{margin-left:8px!important;margin-right:8px!important;color:#585b55;font-size:14px;user-select:text!important}
 p.color{color:#00A185}
 
-.span,span{color:#888;font-size:12px}
+.span,span{margin-left:8px;margin-right:8px!important;color:#888;font-size:12px}
 span.color{color:#00A185}
 
-.blockquote,blockquote{padding:10px;background:#d6d6d6;color:#585b55;border:1px solid transparent;font-size:14px;user-select:text!important}
+.blockquote,blockquote{margin-left:8px!important;margin-right:8px!important;padding:10px;background:#d6d6d6;color:#585b55;border:1px solid transparent;font-size:14px;user-select:text!important}
 .blockquote,blockquote:hover{border:1px solid #333}
 .blockquote,blockquote:active{background:transparent}
 
@@ -76,6 +77,7 @@ code {
 }
 
 .input,input {
+    margin-left: 8px;
     background: transparent;
     padding: 5px;
     border-radius: 4px;
@@ -90,6 +92,7 @@ code {
 .textarea, textarea:focus{background:transparent}
 
 button {
+    margin-left: 8px;
     border: 1px solid #333;
     border-radius: 4px;
     background: #ddd;
@@ -131,11 +134,11 @@ button.sticky.left {
 }
 
 img{-webkit-user-drag:none}
-div.caption{border:1px solid #333;padding:3px;max-width:100%;display:inline-block;height:auto}
+div.caption{margin-left:8px;border:1px solid #333;padding:3px;max-width:100%;display:inline-block;height:auto}
 div.caption img{display:block;padding:0;margin:0;width:100%;height:auto}
 div.caption span{color:#333;font-size:14px;user-select:text!important}
-img.align-left, .img-wrap.align-left{float:left;margin:0 10px 5px 0}
-img.align-right, .img-wrap.align-right{float:right;margin:0 0 5px 10px}
+img.align-left, .img-wrap.align-left{margin-left:8px;float:left;margin:0 10px 5px 0}
+img.align-right, .img-wrap.align-right{margin-right:8px;float:right;margin:0 0 5px 10px}
 img.full-width{clear:both;display:block;width:100%;height:auto;margin:0 0 10px 0}
 
 ul.tiled{}

@@ -1,19 +1,17 @@
 .body, body {
-    background: #393!important;
-}
-
-.header, header {
     background: #fff!important;
 }
 
-.logo,logo {
-    background: url(../icon.svg#badge) no-repeat no-repeat 3px 10px;
-    background-size: 41px;
-    text-indent: 49px;
-    color: #393!important;
+.header, header {
+    background: #393!important;
 }
 
-a:visited{color:#fff}
+.logo,logo {
+    background: url(../icon.svg#icon) no-repeat no-repeat 3px 10px;
+    background-size: 41px;
+    text-indent: 49px;
+    color: #fff!important;
+}
 
 ::selection {
     background: #fff!important;
@@ -21,11 +19,7 @@ a:visited{color:#fff}
 }
 
 .h1, h1 {
-    color: #fff!important;
-}
-
-.p, p {
-    color: #fff!important;
+    color: #393!important;
 }
 
 span .grsf-conversion-count {
@@ -43,9 +37,9 @@ ul.tabs{border-bottom:1px solid #fff}
 ul.tabs li a:active{color:#fff80;border-bottom:4px solid #fff80}
 ul.tabs li.current a{color:#fff;border-bottom:4px solid #fff}
 
-button.color{background:#fff;color:#393;font-weight:bold;padding:10px;font-size:16px}
-button.color:hover{background:#393;color:#fff}
+button.color{background:#393;color:#fff;font-weight:bold;padding:10px;font-size:16px}
+button.color:hover{background:#fff;color:#393}
 
 .social-icons img{margin-left:5px!important;border-radius:50%}
 
-.footer,footer{background:#fff;color:#393}
+.footer,footer{background:#393;color:#fff}
