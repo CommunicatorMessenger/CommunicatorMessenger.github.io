@@ -1,24 +1,16 @@
+Framework:
+footer sections and headings
+
 whitepaper:
 old avatars will be kept in the old messages
 
-if clicked more than once in a group chat notification, shows option to disable notifications
-
 Team hiring
 
-Prototypes heading
+Proctotypes heading
 
 basic english revision using MS Word
 
 balloons: pin more contacts, badges
-
-Framework:
-footer sections and headings
-
-footer sections:
-about: blog, about, partnership, careers
-help: FAQs, whitepaper, contact, one pager, business model, token holders benefits
-apps: App for Mobile, App for PC, App for Browsers
-tools: buttons, p kit
 
 landing design in referral/newsletter section
 
@@ -77,4 +69,7 @@ lists and colored lists
 theme color in text
 float
 image background on footer
+sections with headings and lists on footer
 colored or white tiled lists
+
+if clicked more than once in a group chat notification, shows option to disable notifications
