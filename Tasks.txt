@@ -1,3 +1,16 @@
+whitepaper:
+old avatars will be kept in the old messages
+
+if clicked more than once in a group chat notification, shows option to disable notifications
+
+Team hiring
+
+Prototypes heading
+
+basic english revision using MS Word
+
+balloons: pin more contacts, badges
+
 Framework:
 footer sections and headings
 
@@ -64,3 +77,4 @@ lists and colored lists
 theme color in text
 float
 image background on footer
+colored or white tiled lists
