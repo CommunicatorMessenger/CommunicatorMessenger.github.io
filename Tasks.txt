@@ -1,25 +1,6 @@
-Framework:
-footer sections and headings
-
-whitepaper:
-old avatars will be kept in the old messages
-
-Team hiring
-
-Proctotypes heading
-
-basic english revision using MS Word
-
-balloons: pin more contacts, badges
+Team with landing design
 
 landing design in referral/newsletter section
-
-Framework:
-super header with floating <header>
-animations
-
-BitcoinTalk Topic images
-signature/avatar topic images
 
 Framework:
 Menus
@@ -29,18 +10,34 @@ The use of this site constitute in the accepting of our Cookie Policy.
 
 Google Analytics
 
-Team with landing design
-
 Networks (eth, phpfox/forums, tele, embed) with landing design
 
-Chatip's prototype
+Team hiring/Careers
+
+basic english revision using MS Word
+
+Framework:
+super header with floating <header>
+animations
+
+Install the airdrop referral bot on Telegram group
+BitcoinTalk Topic images
+signature/avatar topic images and signatures
+
+
+
+
+
+
+
+
+
+
+balloons: pin more contacts, badges, tip messages, messenger importer
 
 Plascrypto link (Plascrypto needs icon, proj list, social networks)
 
 Video
-
-Roadmap
-site, initial help bounty, airdrop, pre-ico
 
 Token allocation
 
@@ -73,3 +70,4 @@ sections with headings and lists on footer
 colored or white tiled lists
 
 if clicked more than once in a group chat notification, shows option to disable notifications
+old avatars will be kept in the old messages
