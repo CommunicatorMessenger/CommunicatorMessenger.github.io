@@ -1,9 +1,4 @@
-Team with landing design
-
-landing design in referral/newsletter section
-
-Framework:
-Menus
+Team hiring/Careers
 
 The use of this site constitute in the accepting of our Cookie Policy.
 2018 Plascrypto
@@ -12,17 +7,16 @@ Google Analytics
 
 Networks (eth, phpfox/forums, tele, embed) with landing design
 
-Team hiring/Careers
-
 basic english revision using MS Word
 
 Framework:
 super header with floating <header>
 animations
 
-Install the airdrop referral bot on Telegram group
+BTCTalk signatures
 BitcoinTalk Topic images
 signature/avatar topic images and signatures
+Install the airdrop referral bot on Telegram group
 
 
 
