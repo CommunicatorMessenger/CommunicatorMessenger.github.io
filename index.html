@@ -2,6 +2,15 @@
 <html lang="en-us">
 <head>
 <script type="text/javascript" src="js/jquery.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118680504-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118680504-1');
+</script>
 <script type="text/javascript" src="js/page-common.js"></script>
 <script type="text/javascript" src="//js.growsurf.com/v1"></script>
 <link rel="stylesheet" type="text/css" href="css/page-common.css">
@@ -35,6 +44,12 @@
 <a href="#whitepaper"><li><div><i class="material-icons">book</i></div><p>Whitepaper</p></li></a>
 </ul>
 </nav></header>
+<div id="cookie-message" data-cookie-expiry="60">
+    <p>
+        Communicator uses cookies to ensure we give you the best experience on our website.
+        <a href="cookie-policy.html" title="View our Cookie Policy">Find out more about cookies</a>
+    </p>
+</div>
 <content class="content">
 <article><div class="area heading" style="position: relative;top: -15px;width: 100%;"><div style="
     background: url(img/header.png) no-repeat;
@@ -1175,5 +1190,10 @@ s.setAttribute('data-timestamp', +new Date());
 </footer>
 </content>
 <script id="dsq-count-scr" src="//communicatormessenger.disqus.com/count.js" async=""></script>
+<script>
+    // Detect JS support
+    document.body.className = document.body.className + " js_enabled";
+</script>
+<script src="js/cookie-message.js"></script>
 </body>
 </html>

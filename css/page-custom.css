@@ -45,7 +45,9 @@
   }
 }
 
-
+.js_enabled #cookie-message {
+    display: none;
+}
 
 .body, body {
     background: #fff!important;

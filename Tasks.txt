@@ -1,22 +1,19 @@
-Team hiring/Careers
-
-The use of this site constitute in the accepting of our Cookie Policy.
-2018 Plascrypto
-
-Google Analytics
-
-Networks (eth, phpfox/forums, tele, embed) with landing design
-
-basic english revision using MS Word
-
-Framework:
-super header with floating <header>
-animations
-
 BTCTalk signatures
 BitcoinTalk Topic images
 signature/avatar topic images and signatures
 Install the airdrop referral bot on Telegram group
+
+basic english revision using MS Word
+
+Team hiring/Careers
+
+Networks (eth, phpfox/forums, tele, embed) with landing design
+
+2018 Plascrypto
+
+Framework:
+super header with floating <header>
+animations
 
 
 
