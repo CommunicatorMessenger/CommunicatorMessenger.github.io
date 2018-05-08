@@ -4,7 +4,11 @@ How does the company integrate crypto token into its business model? Can the cry
 
 Product Development: The current product stage and the whether the development team adheres to a schedule.
 
+core team
 advisory board
+
+more screens
+mobile samples
 
 Design the signatures (I'm doing it now), buy a domain name, post about team members in AngelList, and get ready the bounty, avatar/signature campaigns.
 
@@ -100,3 +104,5 @@ colored or white tiled lists
 
 if clicked more than once in a group chat notification, shows option to disable notifications
 old avatars will be kept in the old messages
+
+https://www.wirecard.com/products/issuing/
